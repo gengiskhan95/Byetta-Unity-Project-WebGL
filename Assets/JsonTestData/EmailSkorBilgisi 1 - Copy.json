@@ -1,0 +1,49 @@
+{
+  "oyun": [
+    {
+      "isim": "melis kýlýç",
+      "skor": "71"
+    },
+    {
+      "isim": "Ali123456 Parýltý",
+      "skor": "48"
+    },
+    {
+      "isim": "muratcan salih",
+      "skor": "3"
+    },
+    {
+      "isim": "melis kýlýç",
+      "skor": "71"
+    },
+    {
+      "isim": "Ali123456 Parýltý",
+      "skor": "48"
+    },
+    {
+      "isim": "muratcan salih",
+      "skor": "3"
+    }
+  ]
+}
+
+
+//{
+//  "oyun_adi": "6yaUlas",
+//  "6yaulas":
+//    [
+//      {
+//        "isim": "melis kýlýç",
+//        "skor": "71"
+//      },
+//      {
+//        "isim": "Ali123456 Parýltý",
+//        "skor": "48"
+//      },
+//      {
+//        "isim": "muratcan salih",
+//        "skor": "3"
+//      }
+//    ]
+//}
+
